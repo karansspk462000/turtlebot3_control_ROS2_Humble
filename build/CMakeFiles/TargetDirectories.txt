@@ -1,0 +1,9 @@
+/home/karan/ros2_ws/src/turtlebot3_control/build/CMakeFiles/uninstall.dir
+/home/karan/ros2_ws/src/turtlebot3_control/build/CMakeFiles/turtlebot3_control_uninstall.dir
+/home/karan/ros2_ws/src/turtlebot3_control/build/CMakeFiles/test.dir
+/home/karan/ros2_ws/src/turtlebot3_control/build/CMakeFiles/edit_cache.dir
+/home/karan/ros2_ws/src/turtlebot3_control/build/CMakeFiles/rebuild_cache.dir
+/home/karan/ros2_ws/src/turtlebot3_control/build/CMakeFiles/list_install_components.dir
+/home/karan/ros2_ws/src/turtlebot3_control/build/CMakeFiles/install.dir
+/home/karan/ros2_ws/src/turtlebot3_control/build/CMakeFiles/install/local.dir
+/home/karan/ros2_ws/src/turtlebot3_control/build/CMakeFiles/install/strip.dir
