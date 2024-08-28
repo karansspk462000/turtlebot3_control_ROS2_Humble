@@ -4,7 +4,7 @@ This repository contains a script to control the TurtleBot3 in a Gazebo simulati
 
 ## Prerequisites
 
-1. ROS 2 installed (tested with [**ROS 2 Humble**](https://docs.ros.org/en/humble/Installation.html) or later).
+1. ROS 2 installed (tested with [**ROS 2 Humble**](https://docs.ros.org/en/humble/Installation.html).
 2. [TurtleBot3 Packages](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/) installed.
 3. [Gazebo](https://classic.gazebosim.org/tutorials?tut=install_ubuntu&cat=install) installed.
 
