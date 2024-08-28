@@ -27,7 +27,7 @@ ros2 run turtlebot3_control turtlebot3_control_node
 ## YouTube Video Tutorial
 For more tutorials and content, [visit my YouTube Channel](https://www.youtube.com/@allaboutrobo) and subscribe!
 
-Acknowledgments
+## Acknowledgments
 ROS 2 Documentation
 TurtleBot3 e-Manual
 Gazebo Tutorials
