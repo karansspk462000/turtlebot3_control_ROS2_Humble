@@ -12,14 +12,17 @@ Make sure that the following environment variables are set:
 
 ```bash
 export TURTLEBOT3_MODEL=burger  # or waffle, depending on your model
-
+```
 Run the following command to launch Gazebo with an empty world
 
 ```bash
 ros2 launch turtlebot3_gazebo empty_world.launch.py
+```
 
-```bash
 After launching the Gazebo simulation, run the control script using the following command
+```bash
+ros2 run turtlebot3_control turtlebot3_control_node
+```
 
 ## YouTube Video Tutorial
 For more tutorials and content, [visit my YouTube Channel](https://www.youtube.com/@allaboutrobo) and subscribe!
